@@ -29,4 +29,4 @@ TI Basic has some annoying limitations, like the limited amount of values you ca
 3. Push your changes to our repo. If the changes are significant enough, we'll merge them!
 
 ## Languages & Translations
-Currently, this project is only available in Dutch and English. We currently don't accept translations into other languages for this repository, but we may do so in the future. Meanwhile, feel free to copy the source code and translate it yourself for distribution on your own repository.
+Currently, this project is only available in Dutch and English. Because these languages are maintained seperately, one version might have more features or get bug fixes early. We currently don't accept translations into other languages for this repository, but we may do so in the future. Meanwhile, feel free to copy the source code and translate it yourself for distribution on your own repository.
