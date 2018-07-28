@@ -5,10 +5,16 @@ Biology, Physics and Chemistry resources on the TI-84 Plus family of calculators
 TI Basic has some annoying limitations, like the limited amount of values you can assign to different labels. For this reason, please submit your contribution as a seperate program if it adds new tables to the program. After we got enough tables, we'll split the program into modules to make it more 'digestuable' for the TI Basic.
 
 ## Images
+### Dutch (Nederlands)
 ![Capture 1](https://cdn.discordapp.com/attachments/388800693198389248/408735303243661322/Capture_1.png)
 ![Capture 2](https://cdn.discordapp.com/attachments/388800693198389248/408672810865786890/Capture_2.png)
 ![Capture 3](https://cdn.discordapp.com/attachments/388800693198389248/408672813231243276/Capture_3.png)
 ![Capture 4](https://cdn.discordapp.com/attachments/388800693198389248/408672815122743296/Capture_4.png)
+### English (Engels)
+![Capture 1](https://i.imgur.com/4gTCV0f.png)
+![Capture 2](https://i.imgur.com/AK40Abt.png)
+![Capture 3](https://i.imgur.com/qNHmQIm.png)
+![Capture 4](https://i.imgur.com/zjXX5ZB.png)
 
 ## How do I install this onto my calculator?
 1. Download the newest release of BiNaS.
@@ -23,4 +29,4 @@ TI Basic has some annoying limitations, like the limited amount of values you ca
 3. Push your changes to our repo. If the changes are significant enough, we'll merge them!
 
 ## Languages & Translations
-Currently, this project is only available in Dutch. If you're interested, you could help us with the translation into English. We currently don't accept translations into languages other than English for this repository, but we may do so in the future. Meanwhile, feel free to copy the source code and translate it yourself for distribution on your own repository.
+Currently, this project is only available in Dutch and English. We currently don't accept translations into other languages for this repository, but we may do so in the future. Meanwhile, feel free to copy the source code and translate it yourself for distribution on your own repository.
