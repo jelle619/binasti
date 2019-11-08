@@ -1,4 +1,4 @@
-# BinasTi
+# BinasTI
 Biology, Physics and Chemistry resources on the TI-84 Plus family of calculators.
 
 ## Important notice about TI Basic limitations
