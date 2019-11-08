@@ -1,5 +1,5 @@
 # BinasTI
-Biology, Physics and Chemistry resources on the TI-84 Plus family of calculators.
+Biology, Physics and Chemistry resources on the TI-84 Plus family of calculators. This project is no longer being updated.
 
 ## Important notice about TI Basic limitations
 TI Basic has some annoying limitations, like the limited amount of values you can assign to different labels. For this reason, please submit your contribution as a seperate program if it adds new tables to the program. After we got enough tables, we'll split the program into modules to make it more 'digestuable' for the TI Basic.
